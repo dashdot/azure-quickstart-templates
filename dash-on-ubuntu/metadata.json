@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Dash on Ubuntu",
+  "description": "This template deploys a Dash node on a Ubuntu virtual machines.",
+  "summary": "Deploy Dash on Ubuntu to access services running on the blockchain",
+  "githubUsername": "schinzelh",
+  "dateUpdated": "2016-03-21"
+}
